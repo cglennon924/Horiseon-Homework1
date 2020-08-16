@@ -1,5 +1,5 @@
 # Horiseon-Homework1
-First homework assignment
+
 
 ## deployed application  https://cglennon924.github.io/Horiseon-Homework1/
 
