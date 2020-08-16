@@ -1,4 +1,4 @@
-# Horiseon-Homework1
+# Horiseon
 
 
 ## deployed application  https://cglennon924.github.io/Horiseon-Homework1/
