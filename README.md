@@ -1,5 +1,11 @@
 # Horiseon
 
+# User Story
+```
+AS A web developer
+I WANT a clean and functioning website
+SO THAT my clients can have an enjoyable user experience on my site
+```
 
 ## Deployed application  https://cglennon924.github.io/Horiseon-Homework1/
 
